@@ -61,6 +61,11 @@ class ClientThread(threading.Thread):
                         insert = "veuillez selectionner une base"
                         self.clientsocket.send(insert.encode())
                 if requete[0].upper() == "UPDATE":
+                    print ("Entrer l'option")
+                    option= input()
+                    print ("Entrer l'attribut pour la mise a jour")
+                    attribut = input()
+                    update = oursql.update(requete[2],requete[1],option,attribut)
                     pass
                 if requete[0].upper() == "DELETE":
                     print ("Entrer l'option")
