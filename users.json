@@ -1,0 +1,87 @@
+{
+    "table1": [
+        {
+            "id": 1,
+            "nom": "wade",
+            "prenom": "Diary",
+            "Age": 22
+        },
+        {
+            "id": 2,
+            "nom": "cisse",
+            "prenom": "narou",
+            "Age": 22
+        },
+        {
+            "id": 3,
+            "nom": "diouf",
+            "prenom": "elisabeth",
+            "Age": 22
+        }
+    ],
+    "table2": [
+        {
+            "id": 4,
+            "nom": "sy",
+            "prenom": "Mariama",
+            "Age": 22
+        },
+        {
+            "id": 5,
+            "nom": "Lo",
+            "prenom": "faky",
+            "Age": 22
+        },
+        {
+            "id": 6,
+            "nom": "wade",
+            "prenom": "maty",
+            "Age": 18
+        },
+        {
+            "id": 11,
+            "nom": "ndiay",
+            "prenom": "alarba ",
+            "Age": 22
+        }
+    ],
+    "table3": [
+        {
+            "id": 7,
+            "nom": "Lo",
+            "prenom": "faky",
+            "Age": 22
+        },
+        {
+            "nom": "Lo",
+            "prenom": "faky",
+            "Age": 22
+        },
+        {
+            "nom": "Sy",
+            "prenom": "Mariama",
+            "Age": 23
+        },
+        {
+            "nom": "Sy",
+            "prenom": "Mariama",
+            "Age": 23
+        },
+        {
+            "nom": "Sy",
+            "prenom": "Mariama",
+            "Age": 23
+        },
+        {
+            "nom": "Lo",
+            "prenom": "Mme Ndiaye",
+            "Age": 22
+        },
+        {
+            "id": 9,
+            "nom": "ndiaye",
+            "prenom": "bouki",
+            "Age": 22
+        }
+    ]
+}
